@@ -10,3 +10,8 @@ Task 1: Using the Math Module for Calculations
 - Sine of the number (in radians)
 
 
+Task 2: Calculate Factorial Using a Function
+- Problem Statement: Write a Python program that:
+- Defines a function named factorial that takes a number as an argument and calculates its factorial using a loop or recursion.
+- Returns the calculated factorial.
+- Calls the function with a sample number and prints the output.
